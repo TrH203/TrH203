@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TrH203
+- 👋 Hi, I’m @Hinne_DE
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning  DuyTan University
 - 💞️ I’m looking to collaborate on ...
