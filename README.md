@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hinne_DE
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning  DuyTan University
+- 👋 Hi, I’m @Better_DE
+- 👀 I’m interested in Data Engineer
+- 🌱 I’m currently learning DuyTan University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hoangtrhien203@gmail.com
 
