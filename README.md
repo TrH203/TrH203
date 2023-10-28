@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Better_DE
-- 👀 I’m interested in Data Engineer
+- 👀 I’m interested in Data Job
 - 🌱 I’m currently learning DuyTan University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hoangtrhien203@gmail.com
